@@ -160,7 +160,7 @@ body {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
   
-  .mob-address-list {
+  .mob-address-list { 
     color: #4d5ae5;
   }
   
@@ -383,6 +383,7 @@ body {
   
   .container-team {
     padding-bottom: 32px;
+    padding-top:32px;
   }
   
   .team-main-list {
